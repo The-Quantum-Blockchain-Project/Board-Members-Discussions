@@ -18,3 +18,19 @@
 - Communicatio protocols, for instance:	ZigbEE,	bluetooth, 6lowPAN.
 - Hardware description languages
 
+## [en]	Gimenes	
+
+### Skills
+
+- Classical computer programming
+- Information security
+
+### Interests
+
+- Quantum computer algorithms
+
+### Can teach:
+
+- Classical algorithms
+- Object-oriented programming
+- Security related subjects (criptography, penetration testing...)

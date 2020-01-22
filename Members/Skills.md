@@ -83,5 +83,22 @@
 - Quantum Optics
 - Quantum Computation
   
-  
-  
+## [en] Yohan
+
+### Skills
+
+- Quantum Information and Quantum Mechanics
+- Some Quantum Protocols
+- Classical programming
+
+### Interests
+
+- Quantum hardware
+- Practical Quantum computing
+- Classical and Quantum communication
+- Blockchain
+
+### Can teach
+
+- All the above skills
+- Physics in general

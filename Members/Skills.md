@@ -76,7 +76,7 @@
 - Quatum Computer, structure and algorithms
 - Quatum Information
 
-## Can teach
+### Can teach
 
 - Quatum Machanics
 - Quantum Information

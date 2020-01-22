@@ -60,6 +60,3 @@
 
 - Quantum Computing Principles and Algorithms
 - Quantum Communication Protocols
-  
-  
-  

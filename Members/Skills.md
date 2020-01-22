@@ -60,6 +60,28 @@
 
 - Quantum Computing Principles and Algorithms
 - Quantum Communication Protocols
+ 
+ 
+## [en] Lucas Hutter
+
+### Skills
+
+- Quantum Mechanics
+- Quantum Information
+- Quantum Optics
+- General Physics
+
+### Interests
+
+- Quatum Computer, structure and algorithms
+- Quatum Information
+
+## Can teach
+
+- Quatum Machanics
+- Quantum Information
+- Quantum Optics
+- Quantum Computation
   
   
   

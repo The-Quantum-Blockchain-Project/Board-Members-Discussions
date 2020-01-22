@@ -34,3 +34,32 @@
 - Classical algorithms
 - Object-oriented programming
 - Security related subjects (criptography, penetration testing...)
+
+
+## [en] E Maschio
+
+### Skills
+
+- Quantum Mechanis and Quantum Information
+- Classical Programming Languages
+
+### Interests
+
+- Quantum Networks
+- Classical Networks
+- Quantum Cryptography Protocols
+- Classical Cryprography
+- Quantum Distributed Computing
+- Quantum Algorithms
+- Classical Hardware
+- Quantum Hardware
+- Classical Communication
+- Quantum Communication
+
+## Can teach
+
+- Quantum Computing Principles and Algorithms
+- Quantum Communication Protocols
+  
+  
+  

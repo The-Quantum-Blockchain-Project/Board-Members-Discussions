@@ -129,3 +129,33 @@
 
 - Classical computer hardware
 - Some quantum computing
+
+## [en]	Walxiney	
+
+### Skills
+
+- Python
+- Machine Learning.
+- Convolutional Neural Network
+- Business Inteligence (Qlik Sense)
+- SQL
+- ETL
+- Concepts of Big Data
+
+### Interests
+
+- Quantum Computing
+- Physics
+- Math
+- Quantum Machine Learning
+- Quantum Circuits
+- Quantum optmization
+
+### Can teach:
+
+- Python
+- Machine Learning algoryhms and libs
+- Business Intelligence
+- Concepts of Big Data
+- and some things about Data Science
+- Hardware description languages

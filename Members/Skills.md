@@ -102,3 +102,30 @@
 
 - All the above skills
 - Physics in general
+
+## [en]	César	
+
+### Skills
+
+- Energy Engineer
+- Classical computer hardware
+- Cloud computing
+
+### Interests
+
+- Quantum Mechanics
+- Physics of quantum computers
+- Quantum Hardware
+- Classical Networks
+- Quantum Networks
+- Quantum Distributed Computing
+- Classical Communication
+- Quantum Communication
+- Quantum Algorithms
+- Quantum Optics
+- Photonics
+
+### Can teach:
+
+- Classical computer hardware
+- Some quantum computing

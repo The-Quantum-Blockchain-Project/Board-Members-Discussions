@@ -158,4 +158,3 @@
 - Business Intelligence
 - Concepts of Big Data
 - and some things about Data Science
-- Hardware description languages

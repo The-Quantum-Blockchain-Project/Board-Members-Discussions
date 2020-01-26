@@ -56,7 +56,7 @@
 - Classical Communication
 - Quantum Communication
 
-## Can teach
+### Can teach
 
 - Quantum Computing Principles and Algorithms
 - Quantum Communication Protocols

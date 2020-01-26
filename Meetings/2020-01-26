@@ -1,0 +1,92 @@
+[en] Document in English
+
+[pt-br] Documento em português
+
+### Quórum
+- César
+- Adauto
+- Lucas czpnk
+- Lucas Hutter
+- Marianna Dobal
+- Walxiney
+- Filipe Boba
+- Yohan Vianna
+- Eduardo Maschio
+
+
+## [en] Meeting 2020-01-26
+
+
+### Bullet points
+
+- Schedule next meeting.
+- Discussions about project organization.
+- Discussions about Deutsch-Josza algorithm.
+- Implementation of the Deutsch-Josza algorithm in Qiskit.
+  - We studied he existing algorithm in Qiskit: https://qiskit.org/textbook/ch-algorithms/deutsch-josza.html#djalgorithm
+
+
+### Actions
+
+- A (Notion)[https://www.notion.so/] was created for the project. Initially (Notion)[https://www.notion.so/] will be used to:
+  - Define the best date for meetings.
+  - Define individual tasks, to organize time.
+- Think and organize a way to keep (Notion)[https://www.notion.so/] effective and active.
+
+
+### Decisions about the Meetings
+
+- Before the meeting, it is necessary that everyone has read at least the record of the previous meeting, so that everyone is aware of what is being discussed and for better progress of the meeting.
+- Possibility for each member to organize small meetings at arbitrary times through the telegram for study, task resolutions and engagement.
+- Next meeting scheduled for the fourth day 2020-01-29 at 19h.
+
+
+### For the next meeting
+
+- On wednesday, day 2020-01-29:
+  - Study the algorithms:
+    - Quantum Teleportation (ref: pg 26 of Nielsen and Chuang's).
+    - Dense Codification (ref: pg 97 of Nielsen and Chuang's).
+    Note: Both algorithms use Bell states discussed on page 25 of Nielsen and Chuang's book.
+  - Ask questions on those topics.
+  - Be ready to implement a code on Qiskit.
+
+
+
+## [pt-br] Reunião 2020-01-26
+
+
+### Pontos da reunião
+
+- Agendar próxima reunião.
+- Discussões sobre organização do projeto.
+- Discussões sobre algorítmo de Deutsch-Josza.
+- Implementação do algorítmo de Deutsch-Josza no Qiskit.
+  - Foi estudado o algorítmo existente no Qiskit: https://qiskit.org/textbook/ch-algorithms/deutsch-josza.html#djalgorithm
+
+
+### Ações
+
+- Foi criado um (Notion)[https://www.notion.so/] para o projeto. O (Notion)[https://www.notion.so/], inicialmente servirá para:
+  - Definir a melhor data para reuniões.
+  - Definir tarefas individuais, para organizar o tempo.
+- Pensar e organizar a forma de se manter o (Notion)[https://www.notion.so/] efetivo e ativo.
+
+
+### Decisões sobre as Reuniões
+
+- Antes da reunião, é necessário que todos tenho lido ao menos a ata da reunião anterior, para que todos estejam situados do que está sendo discutido e para melhor andamento da reunião.
+- Possibilidade de cada integrante organizar pequenas reuniões em horários arbitrários através do telegram para estudo, resoluções de tarefas e engajamento.
+- Próxima reunião marcada para quarta dia 2020-01-29 às 19h.
+
+
+### Pauta da próxima reunião
+
+- Para quarta dia 2020-01-29:
+	- Estudar os algorítmos:
+		- Teleporte Quântico (ref: pg 26 do livro do Nielsen e Chuang).
+		- Condificação Densa (ref: pg 97 do livro do Nielsen e Chuang).
+    Obs: Ambos os algorítmos usam estados de Bell discutidos na pg 25 do livro do Nielsen e Chuang.
+	- Tirar dúvidas sobre os tópicos dos livros.
+	- Se preparar para implementarmos um código no Qiskit.
+
